@@ -1,0 +1,50 @@
+.contentContainer {
+  max-width: 1350px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  height: calc(100vh - 20rem);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  img {
+    width: 800px;
+  }
+}
+
+.text1 {
+  max-width: 600px;
+
+  h1 {
+    font-size: 4.5rem;
+    line-height: 4.5rem;
+    font-weight: 900;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+}
+
+.text2 {
+    margin-top: 6rem;
+
+  h1 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    font-weight: 600;
+    color: #fbb544;
+    margin-bottom: 1rem;
+  }
+
+  span {
+    font-size: 2.5rem;
+    line-height: 2.25rem;
+    font-weight: 600; 
+  }
+
+}
